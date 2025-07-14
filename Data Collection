@@ -38,6 +38,6 @@ while page <= MAX_PAGES:
 df = pd.DataFrame(all_articles)
 symbol = params['symbols']
 
-df.to_csv(f"/Users/jinghezhang/Desktop/News/{symbol}_4.csv", index=False)
+df.to_csv(f"/News/{symbol}_4.csv", index=False) #change the directory to your own folder 
 
 print(f"Saved a total of {len(df)} articles")
