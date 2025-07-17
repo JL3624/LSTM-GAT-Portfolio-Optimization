@@ -19,3 +19,14 @@ Using historical stock prices and news sentiment signals, our model learns to al
 
 ## 🎯 Project Objectives
 The objective of this project is to develop and evaluate a deep learning model that can optimally allocate wealth across multiple assets using both price-based and sentiment-driven signals. Specifically, we aim to assess whether a hybrid LSTM-GAT architecture can outperform traditional portfolio strategies such as equal-weighted and mean-variance optimized portfolios. We also explore the role of financial news sentiment in enhancing model robustness and improving risk-adjusted returns, particularly during periods of market uncertainty.
+
+## 📂 Files
+
+### `Literature_Review.pdf`  
+This document provides a detailed review of prior research relevant to our project. It focuses on three key papers, analyzing the methodologies, strengths, and limitations of each. The discussion highlights how these works informed our modeling choices.
+
+### `Model_Result_and_Discussion.pdf`  
+This report presents the results of five different versions of our proposed model. It includes comprehensive evaluation metrics such as total return, annualized return, volatility, Sharpe ratio, Value at Risk (VaR), and maximum drawdown. It also contains time-series plots of cumulative returns and predicted portfolio weights across the test period. Each model version is discussed in detail, with analysis of performance, design choices, and their implications. The document also includes a section outlining limitations and directions for future improvement.
+
+### `Poster_Final.pdf`  
+This is the final project poster summarizing our work . It provides an overview of the project's motivation, data sources, model architecture, feature engineering, graph structure design, and key results. 
