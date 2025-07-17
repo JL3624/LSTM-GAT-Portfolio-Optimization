@@ -37,11 +37,11 @@ This is the final project poster summarizing our work . It provides an overview 
   📧 yl5852@barnard.edu  
   🔗 [LinkedIn](https://www.linkedin.com/in/yun-lin-a0261b334)
 
-- **Jiawei Lou**  
+- **Jiawei Lou**
   📧 jl6685@barnard.edu  
   🔗 [LinkedIn](https://www.linkedin.com/in/jiawei-lou)
 
 - **Jinghe Zhang**  
   📧 jz3893@columbia.edu  
-  🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+  🔗 [LinkedIn](https://www.linkedin.com/in/jinghe-zhang-b4468720b/)
 
