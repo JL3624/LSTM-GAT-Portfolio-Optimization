@@ -39,7 +39,7 @@ This is the final project poster summarizing our work . It provides an overview 
 
 - **Jiawei Lou**
 - 
-  📧 jl6685@barnard.edu  
+  📧 jl6685@barnard.edu
   🔗 [LinkedIn](https://www.linkedin.com/in/jiawei-lou)
 
 - **Jinghe Zhang**  
