@@ -43,5 +43,5 @@ This is the final project poster summarizing our work . It provides an overview 
   
 - **Jinghe Zhang**  
   📧 jz3893@columbia.edu  
-  🔗 [LinkedIn](https://www.linkedin.com/in/jinghe-zhang-b4468720b/)
+  🔗 [LinkedIn](https://www.linkedin.com/in/jinghe-zhang)
 
