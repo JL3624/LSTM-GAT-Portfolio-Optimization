@@ -30,3 +30,18 @@ This report presents the results of five different versions of our proposed mode
 
 ### `Poster_Final.pdf`  
 This is the final project poster summarizing our work . It provides an overview of the project's motivation, data sources, model architecture, feature engineering, graph structure design, and key results. 
+
+## 👥 Authors & Contact
+
+- **Yun Lin**  
+  📧 yl5852@barnard.edu  
+  🔗 [LinkedIn](https://www.linkedin.com/in/yun-lin-a0261b334)
+
+- **Jiawei Lou**  
+  📧 jl6685@barnard.edu  
+  🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+
+- **Jinghe Zhang**  
+  📧 jz3893@columbia.edu  
+  🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
+
